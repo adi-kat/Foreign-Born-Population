@@ -2,7 +2,7 @@
 (Will add more states and complete US soon)
 
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/67b31698-cad4-4708-8a86-2f40963d1fb0 alt="Wyoming Map" />
+  <img src=https://github.com/user-attachments/assets/b5ea4b17-3b68-41e9-a8cb-2a34cbd31987 alt="Texas Map" />
 </p>
 
 <p align="center">
