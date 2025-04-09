@@ -1,4 +1,4 @@
-# Foreign-Born Population Visualization for Wyoming (2023)
+# Foreign-Born Population Visualization for Wyoming
 (only in Wyoming for now, will add more states or complete US soon)
 
 <p align="center">
