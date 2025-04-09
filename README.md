@@ -40,3 +40,17 @@ Clone this repository and install the required dependencies using pip:
 git clone https://github.com/yourusername/Foreign-Born-Population.git
 cd Foreign-Born-Population
 pip install -r requirements.txt
+```
+### Data File
+
+The project requires the Foreign-Born Population.csv dataset, taken from [United States | Data USA](https://datausa.io/profile/geo/united-states).
+Ensure that this file is present in the root directory of the project for it to function correctly.
+
+### Run the Project
+
+Once the environment is set up and the dataset is in place, run the following command to generate the interactive map:
+```bash
+python wyoming_population_map.py
+```
+
+This will create an interactive map saved as wyoming_population_map.html from where the screenshot was taken.
