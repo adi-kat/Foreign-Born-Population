@@ -1,5 +1,9 @@
-# Foreign-Born Population Visualization for Wyoming
-(only in Wyoming for now, will add more states or complete US soon)
+# Foreign-Born Population Visualization for States
+(Will add more states and complete US soon)
+
+<p align="center">
+  <img src=https://github.com/user-attachments/assets/67b31698-cad4-4708-8a86-2f40963d1fb0 alt="Wyoming Map" />
+</p>
 
 <p align="center">
   <img src=https://github.com/user-attachments/assets/67b31698-cad4-4708-8a86-2f40963d1fb0 alt="Wyoming Map" />
