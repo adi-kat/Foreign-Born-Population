@@ -54,6 +54,7 @@ Ensure that this file is present in the root directory of the project for it to 
 
 Once the environment is set up and the dataset is in place, run the following command to generate the interactive map:
 ```bash
+python texas_population_map.py
 python wyoming_population_map.py
 ```
 
