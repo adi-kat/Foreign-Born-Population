@@ -1,5 +1,5 @@
 # Foreign-Born Population Visualization for States
-(Will add more states and complete US soon)
+(Will add more states and complete US at a later date)
 
 <p align="center">
   <img src=https://github.com/user-attachments/assets/b5ea4b17-3b68-41e9-a8cb-2a34cbd31987 alt="Texas Map" />
